@@ -18,15 +18,19 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📸 Screenshot
-<img width="866" height="639" alt="Screenshot 2025-08-23 204127" src="https://github.com/user-attachments/assets/3eddfeab-daec-40e3-bea3-241df93c7598" />
+<img width="897" height="650" alt="Screenshot 2025-08-23 234942" src="https://github.com/user-attachments/assets/eff1672b-f337-433e-9d01-74304c07d426" />
+
 
 
 ---
 
 ## 📝 Changelog
-- Added 3 visualizers
-- Added file properties context menu
-- Added open file location context menu
+- Added playlist management:
+  save & load .m3u
+
+- Added minimize to system tray function
+
+- Added mini player function when in the system tray
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
