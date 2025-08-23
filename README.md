@@ -22,6 +22,9 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 
 ---
 
+## 📝 Changelog
+1. Fix windows dragging
+2. Fix svg button
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
