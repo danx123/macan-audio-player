@@ -18,12 +18,19 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📸 Screenshot
-<img width="854" height="629" alt="Screenshot 2025-08-22 212714" src="https://github.com/user-attachments/assets/adf6ac00-03e8-450e-abb3-bf485858b1a4" />
+<img width="866" height="639" alt="Screenshot 2025-08-23 204127" src="https://github.com/user-attachments/assets/3eddfeab-daec-40e3-bea3-241df93c7598" />
+
 
 ---
 
 ## 📝 Changelog
-1. Add Thumbnail Toolbar
+add function:
+- repeat
+- shuffle
+- search playlists
+- auto resume
+- open file from path
+- drag and drop folder to playlist
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
