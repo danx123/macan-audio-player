@@ -24,13 +24,9 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📝 Changelog
-add function:
-- repeat
-- shuffle
-- search playlists
-- auto resume
-- open file from path
-- drag and drop folder to playlist
+- Added 3 visualizers
+- Added file properties context menu
+- Added open file location context menu
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
