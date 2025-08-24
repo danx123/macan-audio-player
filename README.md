@@ -25,8 +25,7 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📝 Changelog
-- fix svg button 
-- fix m4a album art
+Added "Dynamic Aura" feature following the color of the theme
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
