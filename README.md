@@ -18,13 +18,18 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📸 Screenshot
-<img width="849" height="625" alt="Screenshot 2025-08-24 211415" src="https://github.com/user-attachments/assets/85e83af5-7073-4f26-b389-96aadf1805a6" />
-<img width="899" height="701" alt="Screenshot 2025-08-24 211440" src="https://github.com/user-attachments/assets/9b383204-196b-4597-a719-6953b984edd6" />
+<img width="850" height="626" alt="Screenshot 2025-08-24 232144" src="https://github.com/user-attachments/assets/bd97d3d4-c826-4e5d-acd5-40c1e37b1eef" />
+<img width="899" height="700" alt="Screenshot 2025-08-24 232220" src="https://github.com/user-attachments/assets/e1a5276e-10d3-49d3-8a4a-d159cb213dc4" />
+<img width="400" height="500" alt="Screenshot 2025-08-24 232358" src="https://github.com/user-attachments/assets/96ab9bea-7f26-4c9c-ab7e-8305f2974924" />
+
+
+
+
 
 ---
 
 ## 📝 Changelog
-Added Music Library
+Added Online Radio
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
