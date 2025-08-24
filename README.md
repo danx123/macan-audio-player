@@ -25,12 +25,8 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📝 Changelog
-- Added playlist management:
-  save & load .m3u
-
-- Added minimize to system tray function
-
-- Added mini player function when in the system tray
+- fix svg button 
+- fix m4a album art
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
