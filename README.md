@@ -18,14 +18,13 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📸 Screenshot
-<img width="897" height="650" alt="Screenshot 2025-08-23 234942" src="https://github.com/user-attachments/assets/eff1672b-f337-433e-9d01-74304c07d426" />
-
-
+<img width="849" height="625" alt="Screenshot 2025-08-24 211415" src="https://github.com/user-attachments/assets/85e83af5-7073-4f26-b389-96aadf1805a6" />
+<img width="899" height="701" alt="Screenshot 2025-08-24 211440" src="https://github.com/user-attachments/assets/9b383204-196b-4597-a719-6953b984edd6" />
 
 ---
 
 ## 📝 Changelog
-Added "Dynamic Aura" feature following the color of the theme
+Added Music Library
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
