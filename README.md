@@ -29,7 +29,7 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📝 Changelog
-Added Online Radio
+Added shell extension
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
