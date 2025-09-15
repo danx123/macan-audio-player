@@ -18,12 +18,14 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📸 Screenshot
-<img width="886" height="710" alt="Screenshot 2025-09-15 200229" src="https://github.com/user-attachments/assets/7f08282d-93aa-4ef3-a04d-5fae249da84e" />
+<img width="1365" height="767" alt="Screenshot 2025-09-16 064414" src="https://github.com/user-attachments/assets/5460b00f-35c3-4c38-a619-1190c19e3812" />
 
 ---
 
-## 📝 Changelog
-Added skin mode: Normal, Compact, Minimal
+## 📝 Changelog v5.3.0
+- Fixed minor bug: "open file location fixed"
+- Added new skin: Toolbar Mode
+- Added playing song notification
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
