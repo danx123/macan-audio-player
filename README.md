@@ -18,14 +18,16 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📸 Screenshot
-<img width="1365" height="767" alt="Screenshot 2025-09-16 064414" src="https://github.com/user-attachments/assets/5460b00f-35c3-4c38-a619-1190c19e3812" />
+<img width="850" height="674" alt="Screenshot 2025-09-17 162033" src="https://github.com/user-attachments/assets/81455c06-e56c-414a-b0ca-05bfb7725476" />
+
 
 ---
 
-## 📝 Changelog v5.3.0
-- Fixed minor bug: "open file location fixed"
-- Added new skin: Toolbar Mode
-- Added playing song notification
+## 📝 Changelog v5.5.0
+- Fixed minor bugs:
+* when resuming playback after pausing
+* showing duration in file properties that was previously N/A or unknown
+- Added a Tag Editor feature for editing song information and album art
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
