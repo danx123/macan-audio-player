@@ -18,16 +18,17 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📸 Screenshot
-<img width="850" height="674" alt="Screenshot 2025-09-17 162033" src="https://github.com/user-attachments/assets/81455c06-e56c-414a-b0ca-05bfb7725476" />
+<img width="508" height="489" alt="Screenshot 2025-09-30 193024" src="https://github.com/user-attachments/assets/b038337b-53c6-4d5e-83a4-0bbf37f0ef63" />
+<img width="868" height="708" alt="Screenshot 2025-09-30 193003" src="https://github.com/user-attachments/assets/e77001c1-44f3-489d-b69b-c18d3b1163e2" />
+
 
 
 ---
 
-## 📝 Changelog v5.5.0
-- Fixed minor bugs:
-* when resuming playback after pausing
-* showing duration in file properties that was previously N/A or unknown
-- Added a Tag Editor feature for editing song information and album art
+## 📝 Changelog v5.5.5
+- Update Engine Playback
+- Upgrade Framework (Migrate to PySide6)
+- Add Audio Converter powered bt ffmpeg
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
