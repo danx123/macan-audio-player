@@ -28,7 +28,7 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ## 📝 Changelog v5.5.5
 - Update Engine Playback
 - Upgrade Framework (Migrate to PySide6)
-- Add Audio Converter powered bt ffmpeg
+- Add Audio Converter powered by ffmpeg
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
