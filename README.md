@@ -1,6 +1,6 @@
 # 🎵 Macan Audio Player
 
-Macan Audio Player is a modern PyQt5-based audio player with support for various popular formats, powered by FFmpeg.
+Macan Audio Player is a modern PySide6-based audio player with support for various popular formats, powered by FFmpeg.
 It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock for uninterrupted scrolling.
 
 ---
