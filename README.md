@@ -25,8 +25,8 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 
 ---
 
-## 📝 Changelog v5.5.6
-- Update Framework
+## 📝 Changelog v5.5.7
+- Fixed minor bug play button not updated
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
