@@ -14,19 +14,23 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 - Dark & ​​Light themes with modern accents.
 - Basic controls: Play, Pause, Seek (via slider).
 - Simple, lightweight, and clean UI.
+- Dynamic Aura
+- Tag editor
+- Online Radio
+- Audio Normalization
 
 ---
 
 ## 📸 Screenshot
-<img width="508" height="489" alt="Screenshot 2025-09-30 193024" src="https://github.com/user-attachments/assets/b038337b-53c6-4d5e-83a4-0bbf37f0ef63" />
-<img width="868" height="708" alt="Screenshot 2025-09-30 193003" src="https://github.com/user-attachments/assets/e77001c1-44f3-489d-b69b-c18d3b1163e2" />
+<img width="1080" height="1920" alt="macan-audio-player-v6" src="https://github.com/user-attachments/assets/9c86e351-92f3-4375-a530-5765fff84b5c" />
+
 
 
 
 ---
 
-## 📝 Changelog v5.5.9
-- Update Radio 
+## 📝 Changelog v6.0.0
+- Added Audio Normalization
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
