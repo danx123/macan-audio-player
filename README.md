@@ -18,19 +18,21 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 - Tag editor
 - Online Radio
 - Audio Normalization
+- Advanced Tag Editor
 
 ---
 
 ## 📸 Screenshot
-<img width="1080" height="1920" alt="macan-audio-player-v6" src="https://github.com/user-attachments/assets/9c86e351-92f3-4375-a530-5765fff84b5c" />
+<img width="848" height="672" alt="Screenshot 2025-10-22 211331" src="https://github.com/user-attachments/assets/89768fff-c347-4841-b5fa-7055738e3a06" />
+
 
 
 
 
 ---
 
-## 📝 Changelog v6.0.0
-- Added Audio Normalization
+## 📝 Changelog v6.5.0
+- Added Advanced Tag Editor
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
