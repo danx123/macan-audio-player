@@ -23,16 +23,16 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📸 Screenshot
-<img width="848" height="672" alt="Screenshot 2025-10-22 211331" src="https://github.com/user-attachments/assets/89768fff-c347-4841-b5fa-7055738e3a06" />
-
-
-
+<img width="849" height="673" alt="Screenshot 2025-10-29 220711" src="https://github.com/user-attachments/assets/6fc152f3-c138-4e62-8796-7ccedf710c02" />
+<img width="848" height="667" alt="Screenshot 2025-10-29 220752" src="https://github.com/user-attachments/assets/48b4dc77-f374-4d77-9471-95fcb7c4cfa9" />
 
 
 ---
 
-## 📝 Changelog v6.5.0
-- Added Advanced Tag Editor
+## 📝 Changelog v6.7.0
+- Fixed some strings
+- Update Dependency
+- Improve Performance
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
