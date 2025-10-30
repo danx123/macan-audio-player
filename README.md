@@ -24,15 +24,34 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 
 ## 📸 Screenshot
 <img width="849" height="673" alt="Screenshot 2025-10-29 220711" src="https://github.com/user-attachments/assets/6fc152f3-c138-4e62-8796-7ccedf710c02" />
-<img width="848" height="667" alt="Screenshot 2025-10-29 220752" src="https://github.com/user-attachments/assets/48b4dc77-f374-4d77-9471-95fcb7c4cfa9" />
+<img width="1080" height="1832" alt="macan-audio-player-v7" src="https://github.com/user-attachments/assets/9b4447ea-5e7c-434b-9234-9e8b767dd451" />
 
 
 ---
 
-## 📝 Changelog v6.7.0
-- Fixed some strings
-- Update Dependency
-- Improve Performance
+## 📝 Changelog v7.0.0
+This is a quality-of-life update focused on enhancing playlist management, user interaction, and visual feedback.
+
+### ✨ New Features
+
+* **Playlist Context Menu: Remove Selected Track**
+    * Users can now right-click a track in the playlist and select **"Remove Selected"** to delete it from the current session.
+    * This action intelligently handles various playback scenarios:
+        * If the currently playing track is removed, the player will stop and advance to the next track.
+        * If the playlist becomes empty, the player UI is reset to its default state.
+        * If a track *before* the currently playing track is removed, the playback index is automatically adjusted.
+
+### 🎨 Enhancements
+
+* **Upgraded Notification System:**
+    * **Album Art Display:** Notifications (bubbles) now display the track's **album art** alongside the title and artist, providing richer visual feedback.
+    * **Layout Consistency:** Corrected a layout calculation issue where notifications could have inconsistent sizing or screen placement, especially with long track titles. Notifications are now constrained to a maximum width and positioned reliably on the screen.
+
+### 🔧 Refactors
+
+* Introduced the `remove_selected_track` method to modularize the logic for track removal from the playlist.
+* Refactored `NotificationWidget` to accept and process `artwork_data`, and switched its internal layout to `QHBoxLayout` to support the album art.
+---
 
 ## 📦 Installation
 1. Make sure **Python 3.10+** is installed.
