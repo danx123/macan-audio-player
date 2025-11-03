@@ -23,14 +23,15 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📸 Screenshot
-<img width="849" height="673" alt="Screenshot 2025-10-29 220711" src="https://github.com/user-attachments/assets/6fc152f3-c138-4e62-8796-7ccedf710c02" />
-<img width="1080" height="1832" alt="macan-audio-player-v7" src="https://github.com/user-attachments/assets/9b4447ea-5e7c-434b-9234-9e8b767dd451" />
+<img width="847" height="669" alt="Screenshot 2025-11-04 034126" src="https://github.com/user-attachments/assets/05526eb7-dfac-400e-9962-2ea40f4490d8" />
+
 
 
 ---
 
-## 📝 Changelog v7.0.0
-This is a quality-of-life update focused on enhancing playlist management, user interaction, and visual feedback.
+## 📝 Changelog v7.2.0
+- Fixed volume-muted svg
+- Added format register function (association files).mp3, .m4a, .ogg, .flac
 
 ### ✨ New Features
 
