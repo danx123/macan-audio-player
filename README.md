@@ -30,21 +30,10 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 
 ---
 
-## 📝 Changelog v7.5.0
-🚀 New Features
-Add File(s) Functionality
-A new "Add File(s)" button and corresponding icon (add-file) have been added to the main control panel.
-This allows users to select and add one or more individual audio files (e.g., .mp3, .flac) via a file dialog, supplementing the existing "Add Folder" capability.
-Windows File Association
-A "Register format" option has been added to the main options menu.
-This feature allows users on Windows to associate supported audio formats (.mp3, .m4a, .ogg, .flac, .wav) with the Macan Audio Player.
-The system now includes helper functions (is_admin, run_as_admin, perform_windows_registration) to check for administrator privileges, request UAC elevation, and safely modify the Windows Registry.
-Code & Refactoring
-Custom PlaylistWidget Class
-The standard QListWidget for the playlist has been refactored into a new custom class, PlaylistWidget.
-This change encapsulates the playlist's setup logic (e.g., drag/drop modes) and prepares the codebase for more advanced, playlist-specific features in the future.
-Preparatory Code
-Added a (currently unused) handle_playlist_drop method, indicating future work on enhancing drag-and-drop functionality directly onto the playlist widget.
+## 📝 Changelog v7.8.0
+Fixes & Enhancements
+Playlist Insertion Logic: Fixed an issue where new tracks added via the "Add File(s)" button or drag-and-drop were always appended to the end of the list. New files are now inserted directly below the currently playing track for improved queue management.
+Playlist Multi-Selection: Enabled extended selection (Shift + Ctrl) in the playlist widget, allowing users to select and manage multiple tracks simultaneously.
 
 
 ---
