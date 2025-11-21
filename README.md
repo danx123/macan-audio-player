@@ -30,11 +30,8 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 
 ---
 
-## 📝 Changelog v8.0.0
-- Added Running Text (Marquee) status bar
-- Added QSettings for Radio
-- Added Radio Sync with Dynamic Aura
-
+## 📝 Changelog v8.2.0
+- Update Framework
 ---
 
 ## 📦 Installation
