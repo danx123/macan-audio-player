@@ -30,8 +30,8 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 
 ---
 
-## 📝 Changelog v8.2.0
-- Update Framework
+## 📝 Changelog v8.2.1
+- Added dynamic tooltip (volume)
 ---
 
 ## 📦 Installation
