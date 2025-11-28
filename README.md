@@ -30,8 +30,10 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 
 ---
 
-## 📝 Changelog v8.2.1
-- Added dynamic tooltip (volume)
+## 📝 Changelog v8.4.0
+- Fixed Equlizer save preset
+- Fixed center screen
+- Update Engine (ffmpeg)
 ---
 
 ## 📦 Installation
