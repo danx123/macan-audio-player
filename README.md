@@ -30,10 +30,8 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 
 ---
 
-## 📝 Changelog v8.4.0
-- Fixed Equlizer save preset
-- Fixed center screen
-- Update Engine (ffmpeg)
+## 📝 Changelog v8.5.0
+- Added Transparent Mode
 ---
 
 ## 📦 Installation
