@@ -30,8 +30,8 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 
 ---
 
-## 📝 Changelog v8.5.0
-- Added Transparent Mode
+## 📝 Changelog v8.5.1
+- Fix check mark on transparent mode
 ---
 
 ## 📦 Installation
