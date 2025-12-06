@@ -23,15 +23,17 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📸 Screenshot
-<img width="848" height="668" alt="Screenshot 2025-11-11 085102" src="https://github.com/user-attachments/assets/a3230efe-d5e0-4055-bfca-54b86ddc994f" />
+<img width="856" height="757" alt="Screenshot 2025-12-06 100635" src="https://github.com/user-attachments/assets/a261219f-5da3-4609-8137-940b4a303949" />
+
 
 
 
 
 ---
 
-## 📝 Changelog v8.5.1
-- Fix check mark on transparent mode
+## 📝 Changelog v8.6.0
+- Added Qsettings to save geometry & Last Position
+- Added Check Update Button (about_dialog)
 ---
 
 ## 📦 Installation
