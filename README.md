@@ -23,17 +23,17 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📸 Screenshot
-<img width="856" height="757" alt="Screenshot 2025-12-06 100635" src="https://github.com/user-attachments/assets/a261219f-5da3-4609-8137-940b4a303949" />
-
-
-
+<img width="848" height="701" alt="Screenshot 2025-12-26 013603" src="https://github.com/user-attachments/assets/7cc46673-17cb-455e-bd61-f80045162684" />
+<img width="847" height="693" alt="Screenshot 2025-12-26 013627" src="https://github.com/user-attachments/assets/5152d753-c204-4ba1-8be9-c454b7ad8305" />
+<img width="850" height="694" alt="Screenshot 2025-12-26 013642" src="https://github.com/user-attachments/assets/1c3d84d4-d3b0-4784-8fe7-50762608f424" />
 
 
 ---
 
-## 📝 Changelog v8.6.0
-- Added Qsettings to save geometry & Last Position
-- Added Check Update Button (about_dialog)
+## 📝 Changelog v9.0.0
+- Change Layout Radio Online
+- Change Layout Audio Converter
+- Change Layout Music Library
 ---
 
 ## 📦 Installation
