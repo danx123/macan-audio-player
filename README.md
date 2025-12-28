@@ -30,10 +30,9 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 
 ---
 
-## 📝 Changelog v9.0.0
-- Change Layout Radio Online
-- Change Layout Audio Converter
-- Change Layout Music Library
+## 📝 Changelog v9.2.0
+- Added Lazy Loading
+- Optimized Startup time
 ---
 
 ## 📦 Installation
