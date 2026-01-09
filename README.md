@@ -23,16 +23,28 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📸 Screenshot
-<img width="848" height="701" alt="Screenshot 2025-12-26 013603" src="https://github.com/user-attachments/assets/7cc46673-17cb-455e-bd61-f80045162684" />
-<img width="847" height="693" alt="Screenshot 2025-12-26 013627" src="https://github.com/user-attachments/assets/5152d753-c204-4ba1-8be9-c454b7ad8305" />
-<img width="850" height="694" alt="Screenshot 2025-12-26 013642" src="https://github.com/user-attachments/assets/1c3d84d4-d3b0-4784-8fe7-50762608f424" />
+<img width="850" height="687" alt="Cuplikan layar 2026-01-09 195513" src="https://github.com/user-attachments/assets/84fd564f-3567-463f-b0f9-ec8b30f846f2" />
+
 
 
 ---
 
-## 📝 Changelog v9.2.0
-- Added Lazy Loading
-- Optimized Startup time
+## 📝 Changelog v9.5.0
+🚀 New Feature: Pro-Physics Visualizer
+
+Physics-Based Animation: Implemented gravity and momentum systems. Visualizer bars now have "Attack" (jumping rapidly when a tone is played) and "Decay" (falling slowly following simulated gravity) effects.
+Multi-Mode Display: Added three visualization modes that can be switched in real-time by left-clicking on the visualizer area:
+1. Spectrum Bars: Classic bar display with curved corners.
+2. Smooth Waveform: A Bezier curve-based visualization that flows like water (organic).
+3. Mirrored Center: A symmetrical display that reflects from a center point for a modern aesthetic.
+
+EQ Adaptive Sensitivity: The visualizer is now linked to the Equalizer settings. Increasing the Bass (60Hz) will automatically make the left area of ​​the visualizer more responsive.
+
+🛠️ Fixes & Optimizations
+
+- Zero CPU Overhead: Uses a sine wave and noise simulation technique that is much lighter than conventional FFT (Fast Fourier Transform) processing.
+- Auto-Sleep Engine: The animation system will automatically shut down (*idle*) once the music stops and all bars have reached the bottom to conserve battery power.
+- Smooth Rendering: Antialiasing support on every frame to ensure visualizer lines don't break or pixelate.
 ---
 
 ## 📦 Installation
