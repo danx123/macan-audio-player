@@ -29,22 +29,11 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 
 ---
 
-## 📝 Changelog v9.5.0
+## 📝 Changelog v9.7.0
 🚀 New Feature: Pro-Physics Visualizer
 
-Physics-Based Animation: Implemented gravity and momentum systems. Visualizer bars now have "Attack" (jumping rapidly when a tone is played) and "Decay" (falling slowly following simulated gravity) effects.
-Multi-Mode Display: Added three visualization modes that can be switched in real-time by left-clicking on the visualizer area:
-1. Spectrum Bars: Classic bar display with curved corners.
-2. Smooth Waveform: A Bezier curve-based visualization that flows like water (organic).
-3. Mirrored Center: A symmetrical display that reflects from a center point for a modern aesthetic.
-
-EQ Adaptive Sensitivity: The visualizer is now linked to the Equalizer settings. Increasing the Bass (60Hz) will automatically make the left area of ​​the visualizer more responsive.
-
-🛠️ Fixes & Optimizations
-
-- Zero CPU Overhead: Uses a sine wave and noise simulation technique that is much lighter than conventional FFT (Fast Fourier Transform) processing.
-- Auto-Sleep Engine: The animation system will automatically shut down (*idle*) once the music stops and all bars have reached the bottom to conserve battery power.
-- Smooth Rendering: Antialiasing support on every frame to ensure visualizer lines don't break or pixelate.
+- Fixed Progress Audio Converter
+- Changed SVG icon (Shuffle)
 ---
 
 ## 📦 Installation
