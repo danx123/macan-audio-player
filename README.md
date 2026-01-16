@@ -26,14 +26,6 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 <img width="850" height="687" alt="Cuplikan layar 2026-01-09 195513" src="https://github.com/user-attachments/assets/84fd564f-3567-463f-b0f9-ec8b30f846f2" />
 
 
-
----
-
-## 📝 Changelog v9.7.0
-🚀 New Feature: Pro-Physics Visualizer
-
-- Fixed Progress Audio Converter
-- Changed SVG icon (Shuffle)
 ---
 
 ## 📦 Installation
