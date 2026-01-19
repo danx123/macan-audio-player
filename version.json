@@ -1,9 +1,10 @@
 {
-  "version": "10.0.0",
-  "description": "Real-time FFT Visualization.",
-  "release_date": "2026-01-16"
+  "version": "10.5.0",
+  "description": "added dsp manager.",
+  "release_date": "2026-01-19"
 
 }
+
 
 
 
