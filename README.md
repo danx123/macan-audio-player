@@ -19,23 +19,22 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 - Online Radio
 - Audio Normalization
 - Advanced Tag Editor
+- Equalizer
+- Dsp Manager
+- Audio Converter
+- Visualizer with FFT
 
 ---
 
 ## 📸 Screenshot
-<img width="850" height="687" alt="Cuplikan layar 2026-01-09 195513" src="https://github.com/user-attachments/assets/84fd564f-3567-463f-b0f9-ec8b30f846f2" />
+<img width="855" height="690" alt="Screenshot 2026-01-19 015935" src="https://github.com/user-attachments/assets/8a52f34d-e7e3-4e08-8de0-675bb7ffdb17" />
+<img width="849" height="685" alt="Screenshot 2026-01-19 015948" src="https://github.com/user-attachments/assets/d8a0249b-6a51-4f02-b197-6a428070aa15" />
+
+
 
 
 ---
 
-## 📦 Installation
-1. Make sure **Python 3.10+** is installed.
-2. Install dependencies:
-```bash
-pip install PyQt6
-3. Make sure FFmpeg is installed and accessible via PATH.
-
----
 
 📂 Note
 The source code shared is the base project.
