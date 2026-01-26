@@ -1,9 +1,10 @@
 {
-  "version": "12.3.0",
-  "description": "added backup/restore cache",
-  "release_date": "2026-01-26"
+  "version": "12.4.0",
+  "description": "added notification for album art cache",
+  "release_date": "2026-01-27"
 
 }
+
 
 
 
