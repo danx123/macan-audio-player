@@ -1,9 +1,10 @@
 {
-  "version": "12.2.0",
-  "description": "fix cursor.",
-  "release_date": "2026-01-24"
+  "version": "12.3.0",
+  "description": "added backup/restore cache",
+  "release_date": "2026-01-26"
 
 }
+
 
 
 
