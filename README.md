@@ -23,11 +23,20 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 - Dsp Manager
 - Audio Converter
 - Visualizer with FFT
+- Album Art auto downloader
+- Global Hot Key
+- System tray control
+- Podcast streamer
+- Cinematic lighting
+- Fullscreen mode
+- Lyrics hybrid online/offline
+- Fullscreen lyrics
+- Playlist with Album Art
 
 ---
 
 ## 📸 Screenshot
-<img width="853" height="692" alt="Screenshot 2026-01-23 004840" src="https://github.com/user-attachments/assets/8203a2c2-570d-44e1-a721-7ec8ed45f9ff" />
+<img width="849" height="696" alt="Screenshot 2026-01-29 224800" src="https://github.com/user-attachments/assets/2207f39c-7abb-4bc6-948c-a4587b6b1ad7" />
 <img width="850" height="700" alt="Screenshot 2026-01-23 004812" src="https://github.com/user-attachments/assets/ab15b31a-55f8-4ce3-a395-d369a7091ea2" />
 <img width="849" height="685" alt="Screenshot 2026-01-19 015948" src="https://github.com/user-attachments/assets/d8a0249b-6a51-4f02-b197-6a428070aa15" />
 
