@@ -33,11 +33,15 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 - Fullscreen lyrics
 - Playlist with Album Art
 - Seekbar thumbnail energy curve
+- Streaming Media
 
 ---
 
 ## 📸 Screenshot
 <img width="851" height="741" alt="Screenshot 2026-03-05 205623" src="https://github.com/user-attachments/assets/7a4e4bae-83da-4aa1-8a72-e83d21ae41cb" />
+
+<img width="962" height="742" alt="Screenshot 2026-04-22 180914" src="https://github.com/user-attachments/assets/d3a5e573-687a-4e8b-bc90-fced3270138d" />
+
 
 <img width="852" height="732" alt="Screenshot 2026-03-11 071353" src="https://github.com/user-attachments/assets/e2a0456d-81b1-4806-9768-7d5590d7b2df" />
 
