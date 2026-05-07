@@ -33,6 +33,8 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 - Fullscreen lyrics
 - Playlist with Album Art
 - Seekbar thumbnail energy curve
+- Breathable artwork
+- Dynamic desktop wallpaper
 - Streaming Media
 
 ---
