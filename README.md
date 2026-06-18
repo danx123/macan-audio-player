@@ -4,10 +4,6 @@ Macan Audio Player is a modern PySide6-based audio player with support for vario
 It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock for uninterrupted scrolling.
 
 ---
-<img width="864" height="1821" alt="macan audio player v20 6 6" src="https://github.com/user-attachments/assets/b322ad28-3c12-40a9-9b00-d754bab59436" />
-
-
----
 
 ## ✨ Key Features
 - Supports various popular audio formats (MP3, WAV, OGG, FLAC, AAC, etc.).
