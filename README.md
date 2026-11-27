@@ -39,7 +39,8 @@ It features smooth lyrics sync (.lrc) with auto-follow, as well as manual lock f
 ---
 
 ## 📸 Screenshot
-<img width="969" height="730" alt="Screenshot 2026-11-24 170245" src="https://github.com/user-attachments/assets/5ff7ca70-aa92-40cb-bc4d-2c5db576a591" />
+<img width="975" height="730" alt="image" src="https://github.com/user-attachments/assets/4e440409-dc46-4525-9ee6-848200374162" />
+
 
 
 <img width="849" height="737" alt="Screenshot 2026-05-07 103045" src="https://github.com/user-attachments/assets/5593c4b0-ea62-4c03-8f72-6214b791dbe4" />
